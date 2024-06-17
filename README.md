@@ -7,8 +7,8 @@ Welcome to my Web Development repository! Here, you can explore both my daily pr
 
 In the practice repository, you will find detailed logs and code snippets of my daily web development practice. Each markdown file corresponds to a different area of web development:
 
-- [HTML & CSS Practice](Web_Development/web_dev_practice/javascript_practice.md)
-- [JavaScript Practice](Web_Development/web_dev_practice/javascript_practice.md)
+- [HTML & CSS Practice](web_dev_practice/javascript_practice.md)
+- [JavaScript Practice](web_dev_practice/javascript_practice.md)
 
 
 Feel free to explore each section to see my progress and code examples.
